@@ -1,4 +1,6 @@
-
+index.html        ← main page
+style.css         ← styling
+images/           ← product images
 <!DOCTYPE html>
 <html lang="en">
 <head>

@@ -6,7 +6,7 @@ images/           ← product images
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Smart Deals Hub – Multi-Niche Offers</title>
+  <title>Big-Chinag Collections – Multi-Niche Offers</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>

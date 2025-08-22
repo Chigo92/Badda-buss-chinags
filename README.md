@@ -6,12 +6,12 @@ images/           ← product images
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Big-Chinag Collections – Multi-Niche Offers</title>
+  <title> The Eclectic Hub– Multi-Niche Offers</title>
   <link rel="stylesheet" href="style.css">
 </head>
 <body>
   <header>
-    <h1>🔥 Smart Deals Hub</h1>
+    <h1>🔥 The Eclectic Hub</h1>
     <p>Exclusive Affiliate Offers in Tech, Health, Finance, and More</p>
   </header>
 
